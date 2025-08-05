@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Spring03Application {
 	@GetMapping("/")
 	public String tiger() {
-		return "Spring03:1537";
+		return "Spring03:1541 성공했당!";
 	}
 
 
